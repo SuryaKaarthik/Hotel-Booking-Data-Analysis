@@ -7,5 +7,6 @@ Customer behavioral segmentation
 Revenue management strategies
 Operational efficiency
 Loyalty programs & repeat business
+
 📊 Dataset Overview
 The dataset consists of hotel bookings data, including reservation details, customer demographics, and stay-related information. The dataset undergoes thorough cleaning and preprocessing before analysis.
